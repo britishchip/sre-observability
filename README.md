@@ -2,8 +2,10 @@
 
 A production-style observability setup running on Kubernetes, built to demonstrate SRE principles including SLO tracking, metrics collection, and automated alerting.
 
-## ArchitectureFlask App → Prometheus (scrape /metrics) → Grafana (dashboards + alerts) → Webhook (notifications)
+## Architecture
 
+Flask App → Prometheus (scrape /metrics) → Grafana (dashboards + alerts) → Webhook (notifications)
+TODO: add architecture diagrram
 ￼
 ## Stack
 
